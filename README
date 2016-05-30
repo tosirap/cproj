@@ -1,0 +1,11 @@
+Membres du groupe: PARISOT Paul-andréa ; SAID Philippe ; CHEANG Eric .
+
+
+Pour pouvoir exécuter notre programme, il faut avoir installer libxml2, libSDL2 et sdl2_gfx .
+Puis lancer la commande make dans le terminal.
+Et enfin taper dans le terminal ./fenetre2 suivi du chemin du fichier osm souhaité.
+
+
+Notre projet ne prend en compte que les nodes et les ways, mais pas les relations.
+
+
